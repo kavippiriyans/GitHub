@@ -6,7 +6,7 @@ public class Conflicts {
 		// TODO Auto-generated method stub
 System.out.println("good evening");
 System.out.println("How are you");
-System.out.println();
+System.out.println("Iam fine");
 
 	}
 
